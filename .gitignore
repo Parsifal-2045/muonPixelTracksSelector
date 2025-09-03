@@ -1,0 +1,11 @@
+# image output
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# root files
+*.root
+
+# old
+*old_*
