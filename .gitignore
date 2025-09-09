@@ -7,5 +7,10 @@
 # root files
 *.root
 
+# model files
+*.pkl
+*.joblib
+*.dot
+
 # old
 *old_*
