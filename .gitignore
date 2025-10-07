@@ -11,6 +11,8 @@
 *.pkl
 *.joblib
 *.dot
+*.pt
 
-# old
+# old and test
 *old_*
+*/test/*
