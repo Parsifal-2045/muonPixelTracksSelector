@@ -12,6 +12,8 @@
 *.joblib
 *.dot
 *.pt
+*.json
+*.onnx
 
 # old and test
 *old_*
